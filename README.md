@@ -42,7 +42,7 @@ Este repositório contém uma implementação de uma API RESTful utilizando Flas
 
 ## Nota de uso e experiência:
 
-- **Uso Flask-RESTful**: Uso do Flask-RESTful: O Flask-RESTful oferece uma solução leve e direta para APIs simples, mas limitações surgem ao tentar manipular módulos com dados estruturados na lógica. Experimentei várias incertezas ao lidar com erros persistentes ao iterar entre módulos e lógica de dados. Minha recomendação é manter a estrutura simples e modularizar apenas quando necessário, especialmente em APIs de baixa complexidade. Para projetos que exigem manipulação avançada ou dados altamente estruturados, pode ser mais eficiente considerar frameworks mais robustos e especializados, já que essa não é a finalidade principal do Flask-RESTful.
+- **Uso Flask-RESTful**: O Flask-RESTful oferece uma solução leve e direta para APIs simples, mas limitações surgem ao tentar manipular módulos com dados estruturados na lógica. Experimentei várias incertezas ao lidar com erros persistentes ao iterar entre módulos e lógica de dados. Minha recomendação é manter a estrutura simples e modularizar apenas quando necessário, especialmente em APIs de baixa complexidade. Para projetos que exigem manipulação avançada ou dados altamente estruturados, pode ser mais eficiente considerar frameworks mais robustos e especializados, já que essa não é a finalidade principal do Flask-RESTful.
 
 
 ## Instalação
